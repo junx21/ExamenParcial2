@@ -125,4 +125,6 @@ void promocion() {
     cout << "El precio total es: " << totalp << endl;
 }
 ```
+### Uso de Perplexity, para implementar #include <algorithm>
+
 
